@@ -1,7 +1,7 @@
 /**
  * D-Heap
  */
-//Shai Shohat  - shaishohat 311121917. Ella Aronov - ellaaronov 319426706. 
+
 package ex2;
 public class DHeap
 {
